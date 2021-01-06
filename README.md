@@ -1,7 +1,7 @@
 # facebook-emote-bot
 
 Emojileri bota eklemek için önce Discord sunucunuza ekleyin daha sonra isimlerini
-\:emojiadı: şeklinde chate yazın oraya çıkacak olan <:örnek:123123123123> kodun <>
+\\:emojiadı: şeklinde chate yazın oraya çıkacak olan <:örnek:123123123123> kodun <>
 içindeki :örnek:123123123123 kısmını kopyalayıp server.js dosyasının içine atıyoruz.
 
 Daha sonra kaydedip klasörün içindeki baslat.bat dosyasını açıyoruz botunuz aktif oluyor.
